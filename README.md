@@ -3,14 +3,14 @@
 ### Skills:
 
 ## Programming Languages:
-• C
+• C  
 • Python
 
 ## Web Technologies:
-• HTML
-• CSS
+• HTML  
+• CSS  
 • JavaScript
 
 ## Tools:
-• Git
+• Git  
 • VS Code
