@@ -11,7 +11,7 @@
 • CSS  
 • JavaScript
 
-### LIBRARY:
+## LIBRARY:
 • React.js
 
 ## Tools:
