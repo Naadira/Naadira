@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm Naadira Sahar, currently pursuing my undergraduate degree in Information Technology.
 
-### Skills:
+## Skills:
 
 ## Programming Languages:
 • C  
