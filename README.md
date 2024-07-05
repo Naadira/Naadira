@@ -11,6 +11,9 @@
 • CSS  
 • JavaScript
 
+### LIBRARY:
+• React.js
+
 ## Tools:
 • Git  
 • VS Code
