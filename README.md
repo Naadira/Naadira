@@ -17,13 +17,14 @@
 ## Tools:
 • Git  
 • VS Code
-• Atlassian Suite:
-   • Jira Software
-   • Jira Service Management (JSM)
-   • Confluence
-   • Atlassian Cloud Administration
-   • Cloud-to-Cloud Migration
-   • Automation Rules
-   • Workflow Configuration
-   • ScriptRunner
-   • Forge Development
+
+### Atlassian Suite:
+• Jira Software
+• Jira Service Management (JSM)
+• Confluence
+• Atlassian Cloud Administration
+• Cloud-to-Cloud Migration
+• Automation Rules
+• Workflow Configuration
+• ScriptRunner
+• Forge Development
