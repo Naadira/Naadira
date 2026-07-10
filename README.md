@@ -19,7 +19,6 @@
 • VS Code
 
 ## Atlassian Suite:
----
 • Jira Software  
 • Jira Service Management (JSM)  
 • Confluence  
