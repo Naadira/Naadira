@@ -1,4 +1,4 @@
-### Hi there! 👋 I'm Naadira Sahar, currently pursuing my undergraduate degree in Information Technology.
+### Hello! I'm Naadira Sahar, an Information Technology graduate with a strong interest in software development and web technologies. I have hands-on experience in programming, front-end development, and version control tools, and I enjoy building efficient and user-friendly applications.
 
 ## Skills:
 
